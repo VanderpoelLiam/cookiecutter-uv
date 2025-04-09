@@ -4,7 +4,7 @@
 
 ---
 
-This is a fork of [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv.git), a modern Cookiecutter template that can be used to initiate a Python project with all the necessary tools for development, testing, and deployment. It supports the following features:
+This is a fork of [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv.git), a minimalist Cookiecutter template that can be used to initiate a Python project with the minimum necessary tools for development, testing, and deployment. It supports the following features:
 
 - [uv](https://docs.astral.sh/uv/) for dependency management
 - Supports both [src and flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/).
