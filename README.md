@@ -1,8 +1,4 @@
-<p align="center">
-  <img width="600" src="https://raw.githubusercontent.com/VanderpoelLiam/cookiecutter-uv/main/docs/static/cookiecutter.svg">
-</p style = "margin-bottom: 2rem;">
-
----
+# cookiecutter-uv
 
 This is a fork of [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv.git), a minimalist Cookiecutter template that can be used to initiate a Python project with the minimum necessary tools for development, testing, and deployment. It supports the following features:
 
