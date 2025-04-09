@@ -2,20 +2,20 @@
   "author": "Liam Vanderpoel",
   "author_github_handle": "VanderpoelLiam",
   "codecov": [
-    "y",
-    "n"
+    "n",
+    "y"
   ],
   "deptry": [
     "y",
     "n"
   ],
   "devcontainer": [
-    "y",
-    "n"
+    "n",
+    "y"
   ],
   "dockerfile": [
-    "y",
-    "n"
+    "n",
+    "y"
   ],
   "email": "liam@email.com",
   "include_github_actions": [
@@ -23,8 +23,8 @@
     "n"
   ],
   "layout": [
-    "flat",
-    "src"
+    "src",
+    "flat"
   ],
   "mkdocs": [
     "y",
@@ -42,7 +42,7 @@
   "project_name": "example-project",
   "project_slug": "{{cookiecutter.project_name|lower|replace('-', '_')}}",
   "publish_to_pypi": [
-    "y",
-    "n"
+    "n",
+    "y"
   ]
 }
