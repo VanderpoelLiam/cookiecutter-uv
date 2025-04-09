@@ -55,16 +55,8 @@ include = [
     {%- endif -%}
 ]
 exclude = ["**/__pycache__", "build", "dist"]
-defineConstant = {}
 typeCheckingMode = "strict"
 useLibraryCodeForTypes = true
-reportMissingTypeStubs = "warning"
-reportUnknownMemberType = "warning"
-reportUnknownParameterType = "warning"
-reportUnknownVariableType = "warning"
-reportUnknownArgumentType = "warning"
-reportPrivateUsage = "warning"
-reportUntypedFunctionDecorator = "warning"
 
 [tool.pytest.ini_options]
 testpaths = ["tests"]
