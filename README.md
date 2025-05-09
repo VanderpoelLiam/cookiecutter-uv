@@ -6,7 +6,7 @@ This is a fork of [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecut
 - Supports both [src and flat layout](https://packaging.python.org/en/latest/discussions/src-layout-vs-flat-layout/).
 - CI/CD with [GitHub Actions](https://github.com/features/actions)
 - Pre-commit hooks with [pre-commit](https://pre-commit.com/)
-- Code quality with [ruff](https://github.com/charliermarsh/ruff), [pyright](https://microsoft.github.io/pyright/), [deptry](https://github.com/fpgmaas/deptry/) and [black](https://black.readthedocs.io/)
+- Code quality with [ruff](https://github.com/charliermarsh/ruff), [pyright](https://microsoft.github.io/pyright/), and [deptry](https://github.com/fpgmaas/deptry/)
 - Publishing to [PyPI](https://pypi.org) by creating a new release on GitHub
 - Testing and coverage with [pytest](https://docs.pytest.org/en/7.1.x/) and [codecov](https://about.codecov.io/)
 - Documentation with [MkDocs](https://www.mkdocs.org/)
