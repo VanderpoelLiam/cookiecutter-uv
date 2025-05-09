@@ -71,7 +71,3 @@ To enable the code coverage reports, see [here](https://fpgmaas.github.io/cookie
 
 For more details, see [here](https://fpgmaas.github.io/cookiecutter-uv/features/cicd/#how-to-trigger-a-release).
 {%- endif %}
-
----
-
-Repository initiated with [fpgmaas/cookiecutter-uv](https://github.com/fpgmaas/cookiecutter-uv).
